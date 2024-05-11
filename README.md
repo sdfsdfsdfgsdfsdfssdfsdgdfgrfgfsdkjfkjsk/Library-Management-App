@@ -1,6 +1,7 @@
 Library Management System
 
-This is a simple Library Management System built using Python and Tkinter. While it may not be the most advanced or flashy application, it gets the job done. You can use it to manage books, borrowers, and their data from their college
+This is a simple Library Management System built using Python and Tkinter. While it may not be the most advanced or flashy application, it gets the job done. You can use it to manage books, borrowers, and their data from their college.
+
 Features
 
     Add, edit, and delete books from the library inventory.
