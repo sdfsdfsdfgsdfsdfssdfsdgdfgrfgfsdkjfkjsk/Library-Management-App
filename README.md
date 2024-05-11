@@ -12,7 +12,7 @@ Requirements
 
 Make sure you have Python installed on your system. You can install the required packages by running:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Usage
 
